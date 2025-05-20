@@ -1,2 +1,4 @@
 # capstondesign
-capstonedesign
+캡스톤 디자인 2 4-1 종합 파일본
+2025-05-20 최신화 진행 중
+프론트 엔드 및 백 엔드 + PM
